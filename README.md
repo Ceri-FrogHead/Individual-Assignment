@@ -9,7 +9,6 @@ MUHAMMAD NAIM KHUSYAIRI BIN JAAFAR
 CDCS266 5A
 ========================================================
 
---------------------------------------------------------
   PROJECT OVERVIEW
 --------------------------------------------------------
 Smart Petrol Cost Calculator is an Android mobile
@@ -18,7 +17,6 @@ petrol expenses based on fuel type, price per litre,
 and fuel usage. It also supports the BUDI MADANI
 government rebate scheme for eligible RON95 users.
 
---------------------------------------------------------
   FEATURES
 --------------------------------------------------------
 - Select petrol type: RON95, RON97, or Diesel
@@ -34,7 +32,6 @@ government rebate scheme for eligible RON95 users.
 - About screen with app information
 - Clean, green-themed Material UI
 
---------------------------------------------------------
   BUDI MADANI REBATE LOGIC
 --------------------------------------------------------
 - Applies ONLY to RON95 petrol type
@@ -47,25 +44,6 @@ government rebate scheme for eligible RON95 users.
   a toast message will notify that the rebate only
   applies to RON95.
 
---------------------------------------------------------
-  TECHNICAL SPECIFICATIONS
---------------------------------------------------------
-  Language         : Java
-  Min SDK          : 24 (Android 7.0 Nougat)
-  Target SDK       : 36
-  Compile SDK      : 36
-  Version          : 1.0 (versionCode 1)
-  Package Name     : com.example.petrolcalc
-
-  Dependencies:
-    - AndroidX AppCompat
-    - Material Components
-    - AndroidX Activity
-    - ConstraintLayout
-    - JUnit (testing)
-    - Espresso (UI testing)
-
---------------------------------------------------------
   HOW TO RUN
 --------------------------------------------------------
 1. Open Android Studio
@@ -80,7 +58,6 @@ government rebate scheme for eligible RON95 users.
   NOTE: Ensure the emulator is fully booted before
   running the app to avoid installation errors.
 
---------------------------------------------------------
   HOW TO USE THE APP
 --------------------------------------------------------
 1. Select your petrol type from the dropdown
